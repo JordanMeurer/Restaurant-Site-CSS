@@ -21,6 +21,9 @@ h1{
     width: 50%;
 }
 
+label{
+    font-weight: bold;
+}
 
 a{
     padding-right: 20px;
@@ -40,6 +43,10 @@ a:active{
 table{
     text-align: center;
     border-collapse:collapse;
+    border-radius: 5px;
+    width: 50%;
+    float: none;
+    margin: 50px auto;
 }
 
 table.food th{
